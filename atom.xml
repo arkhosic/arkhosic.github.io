@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arkhosic.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-19T02:35:02.653Z</updated>
+    <title>arkhosic</title>
+    <updated>2021-02-19T02:36:23.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arkhosic.github.io"/>
     <link rel="self" href="https://arkhosic.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>forever young</subtitle>
     <logo>https://arkhosic.github.io/images/avatar.png</logo>
     <icon>https://arkhosic.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, arkhosic</rights>
     <entry>
         <title type="html"><![CDATA[第一篇]]></title>
         <id>https://arkhosic.github.io/post/di-yi-pian/</id>
