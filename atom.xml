@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arkhosic.github.io</id>
     <title>arkhosic</title>
-    <updated>2021-07-08T11:51:31.777Z</updated>
+    <updated>2021-07-08T12:02:48.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arkhosic.github.io"/>
     <link rel="self" href="https://arkhosic.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://arkhosic.github.io/struktura-dogovora/</id>
         <link href="https://arkhosic.github.io/struktura-dogovora/">
         </link>
-        <updated>2021-07-07T08:10:01.000Z</updated>
+        <updated>2021-07-07T06:10:01.000Z</updated>
         <content type="html"><![CDATA[<p>Любой договор условно можно разделить на четыре части:<br>
 任何合同均可分为四个部分：</p>
 <ul>
@@ -114,7 +114,7 @@
 3）银行要项（结算账号、开户行、银行代码、国际金融组织或结算出纳中心信息）；<br>
 г) отгрузочные реквизиты (для железнодорожных отправок, для контейнеров, для мелких отправок).<br>
 4）发货要项 （铁路发运、集装箱发运、小批量发运）。</li>
-<li><strong>Кольчество экземпляров договора 合同分数</strong>.</li>
+<li><strong>Кольчество экземпляров договора 合同份数</strong></li>
 <li><strong>Подписи сторон с приложением печати каждой организации(предприятия) 双方签字和盖章</strong></li>
 </ol>
 ]]></content>
