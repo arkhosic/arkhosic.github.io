@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arkhosic.github.io</id>
     <title>arkhosic</title>
-    <updated>2021-07-08T05:33:41.461Z</updated>
+    <updated>2021-07-08T05:41:59.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arkhosic.github.io"/>
     <link rel="self" href="https://arkhosic.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, arkhosic</rights>
     <entry>
         <title type="html"><![CDATA[СТРУКТУРА ДОГОВОРА 合同结构 ]]></title>
-        <id>https://arkhosic.github.io/post/struktura-dogovora-he-tong-jie-gou/</id>
-        <link href="https://arkhosic.github.io/post/struktura-dogovora-he-tong-jie-gou/">
+        <id>https://arkhosic.github.io/struktura-dogovora-he-tong-jie-gou/</id>
+        <link href="https://arkhosic.github.io/struktura-dogovora-he-tong-jie-gou/">
         </link>
         <updated>2021-07-07T20:10:01.000Z</updated>
         <summary type="html"><![CDATA[<p>Любой договор условно можно разделить на четыре части:<br>
@@ -85,8 +85,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[如果雨之后]]></title>
-        <id>https://arkhosic.github.io/post/rgyzh/</id>
-        <link href="https://arkhosic.github.io/post/rgyzh/">
+        <id>https://arkhosic.github.io/rgyzh/</id>
+        <link href="https://arkhosic.github.io/rgyzh/">
         </link>
         <updated>2021-02-19T02:34:15.000Z</updated>
         <content type="html"><![CDATA[<p>永远保持好奇心。<br>
