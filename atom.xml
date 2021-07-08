@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arkhosic.github.io</id>
     <title>arkhosic</title>
-    <updated>2021-07-08T08:52:55.043Z</updated>
+    <updated>2021-07-08T08:55:04.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arkhosic.github.io"/>
     <link rel="self" href="https://arkhosic.github.io/atom.xml"/>
-    <subtitle>forever young</subtitle>
+    <subtitle>心、技、体</subtitle>
     <logo>https://arkhosic.github.io/images/avatar.png</logo>
     <icon>https://arkhosic.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, arkhosic</rights>
