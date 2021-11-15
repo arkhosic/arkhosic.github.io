@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arkhosic.github.io</id>
     <title>arkhosic</title>
-    <updated>2021-11-15T08:39:54.502Z</updated>
+    <updated>2021-11-15T08:41:24.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arkhosic.github.io"/>
     <link rel="self" href="https://arkhosic.github.io/atom.xml"/>
@@ -15,8 +15,8 @@
         <id>https://arkhosic.github.io/HJDAHB52H/</id>
         <link href="https://arkhosic.github.io/HJDAHB52H/">
         </link>
-        <updated>2021-11-15T01:07:19.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>    ![](https://arkhosic.github.io/post-images/1636965571430.JPG)</code></pre>
+        <updated>2021-11-14T23:07:19.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://arkhosic.github.io/post-images/1636965660842.JPG" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
